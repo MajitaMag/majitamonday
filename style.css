@@ -173,6 +173,9 @@ a {
     text-decoration: none;
 
 }
+#se-image a{
+    text-align: center;
+}
 
 .search-bar p {
     display: flex;
