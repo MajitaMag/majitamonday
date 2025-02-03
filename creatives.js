@@ -154,7 +154,7 @@ const creatives = [
         questionFour: "Influential",
         answerFour: "The first step to increasing your influence is to build connections. I keep learning, I volunteer my time, I experience new things and places, and I get creative.",
         additionalQuestions: [
-        { question: "Entrepreneur", answer: "A passion for a business idea, desire for independence, opportunity identification and financial independence. I started my own company 'Cocktail Cafe' year 2021. I used to work as a barten- der and I've learned a lot about cocktails so I saw an opportunity to start my own company. Some of the early challenges I've faced was having limited equipment. Having limited resources forces you to have few options on the menu" },
+        { question: "Entrepreneur", answer: "A passion for a business idea, desire for independence, opportunity identification and financial independence. I started my own company 'Cocktail Cafe' year 2021. I used to work as a bartender and I've learned a lot about cocktails so I saw an opportunity to start my own company. Some of the early challenges I've faced was having limited equipment. Having limited resources forces you to have few options on the menu" },
         { question: "Growth", answer: ["Personal growth to me means having a lifelong learning mentality about myself, diving deep into who I am and what makes me tick, and making sure that I'm also recognizing where I want to go and figuring out how to get there and making sure I'm keeping myself accountable to the things that I'm doing in my everyday life. As a being I believe we need to prioritize personal growth because you are the one responsible for what you are. Make your health a priority."] },
         ]
        },
@@ -210,7 +210,7 @@ const creatives = [
         image: "./images/Kimmo Artboard 3.jpg",
         date: "Sep 11 2023",
         questionOne: "WHO IS KIMMO",
-        answerOne: "My name is Nkogatse Katobatoba, Im A 19 YearOld Creative and Photographer Based In Ga- Masemola. I would Best Like to Describe My Self As A Creative Visual Storyteller. Im Not Self Aware On Camera But In Despise Of That I Use It To Navigate The World Around Me. I Am Passionate About Photography. Im Always Reaching Out them Heights in This Field As A Creative. Currently | Specialize In Both Lifestyle, Events And Portrait Photography.",
+        answerOne: "My name is Nkogatse Katobatoba, Im A 19 YearOld Creative and Photographer Based In Ga-Masemola. I would Best Like to Describe My Self As A Creative Visual Storyteller. Im Not Self Aware On Camera But In Despise Of That I Use It To Navigate The World Around Me. I Am Passionate About Photography. Im Always Reaching Out them Heights in This Field As A Creative. Currently | Specialize In Both Lifestyle, Events And Portrait Photography.",
         questionTwo: "WHAT KIND OF PERSON IS SUBURBAN ΚΙΜΜΟ",
         answerTwo: "Im an ambivert. My Friends and Those Closest To Me Would Say I Am Giddy and Chatty. Im So Grounded and I Try To Be Humble All The Time. I'm Very Reserved And Honestly Shy. And im also Very Spiritually Oriented. I believe in God and i also belive in his purpose for my life. Besides that i am honestly laid back",
         questionThree: "HOW DID I START PHOTOGRAPHY",
@@ -261,9 +261,9 @@ const creatives = [
         questionTwo: "Music Journey",
         answerTwo: "My musical journey began when I first fell in love with rnb sounds and Poetic lyrics of hip hop, I was inspired by my cousin who was a melophine",
         questionThree: "Creative process",
-        answerThree: "First and foremost, 'not to brag' but I'm ART so every thing I do is pheno- menally cunning especially with music since it's my happy zoneso coming up with music ideas is not a hassle, its effortless. Funny thing is...I never wrote my first track, I freestyled it and it was titled",
+        answerThree: "First and foremost, 'not to brag' but I'm ART so every thing I do is phenomenally cunning especially with music since it's my happy zoneso coming up with music ideas is not a hassle, its effortless. Funny thing is...I never wrote my first track, I freestyled it and it was titled",
         questionFour: "Collaborations",
-        answerFour: "Yes, i would love to collaborate with local and international artists. es- pecially artists that I can connect with musically",
+        answerFour: "Yes, i would love to collaborate with local and international artists. especially artists that I can connect with musically",
         additionalQuestions: [
         { question: "Message in the music", answer: "Most of my songs do convey a message, so I hope my listeners find my music is relevant" },
         { question: "Evolution of music", answer:[ "Indeed my sound has changed and for the better I keep getting new flows and styles but I do know my sound has been soothing ever since and I know I'm just going to keep getting better and better as time goes" ]},
