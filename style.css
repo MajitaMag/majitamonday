@@ -633,7 +633,7 @@ margin-top: 3px;
     cursor: pointer;
   }
 
-@media (max-width: 520px) {
+@media (max-height: 520px) {
     .line {
        display: none;
     }
