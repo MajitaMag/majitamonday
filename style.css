@@ -168,6 +168,9 @@ button svg {
     color: white;
     
 }
+strong {
+    font-size: 14px;
+ }
 
 a {
     text-decoration: none;
