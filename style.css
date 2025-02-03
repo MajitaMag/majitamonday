@@ -73,7 +73,7 @@ section {
 }
 .homelogo {
     width: 70%;
-    margin: 0 auto 2em;
+    margin: 0 auto .7em;
 }
 nav ul {
     position: fixed;
