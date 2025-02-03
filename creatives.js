@@ -144,7 +144,11 @@ const creatives = [
         questionOne: "Who are you?",
         answerOne: "I'm a young entrepreneurship, born and bred in Ga-Masemola originally known as Yvette Masemola",
         questionTwo: "Event organiser",
-        answerTwo: "I always knew my path in life would eventually lead me into entrepreneurship, specifically laun- ching an event called 'Orange Festival'. During my high school studies, I discovered that event planning and entrepreneurship were just part of my DNA. I was surrounded by people who hosted events and I was like why not venture into this industry. To my surprise it came out proper and we're still doing it every year 21 Decem- ber. When you're fire-fighting your 'To Do' list is often swirling around in your head. Take control and write everything down. In times of intense pressure, you'll need to prioritise and rank your items in order of importance. A priority matrix is often really helpful here. Never the easiest thing for event organisers to do. But to ensure you stay calm and manage im- portant tasks effectively, see which of the less important tasks you can farm out to somebody else.",
+        answerTwo: `I always knew my path in life would eventually lead me into entrepreneurship, specifically launching an event called "Orange Festival". 
+        
+        During my high school studies, I discovered that event planning and entrepreneurship were just part of my DNA. I was surrounded by people who hosted events and I was like why not venture into this industry. To my surprise it came out proper and we're still doing it every year 21 December. 
+        
+        When you're fire-fighting your "To Do" list is often swirling around in your head. Take control and write everything down. In times of intense pressure, you'll need to prioritise and rank your items in order of importance. A priority matrix is often really helpful here. Never the easiest thing for event organisers to do. But to ensure you stay calm and manage important tasks effectively, see which of the less important tasks you can farm out to somebody else.`, 
         questionThree: "Stylist",
         answerThree: "Be yourself, I stay true to my identity, my values, my vision, and not following the trends blindly. You can use the trends as a source of inspiration, but not as a limitation or a constraint. Knowing your style will help you filter out the trends that are not compatible with your aesthetic and per- sonality, and focus on the ones that enhance and complement your look.",
         questionFour: "Influential",
