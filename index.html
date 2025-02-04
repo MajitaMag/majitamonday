@@ -50,20 +50,16 @@
         <div class="line"></div>
     </div>
 
-    <div class="highlighted-creatives">
-        <p class="heading">Highlighted  Creatives</p>
+       <div class="highlighted-creatives">
+        <p class="heading">Newest Additions</p>
         <p class="home-text">
-            Get to know the visionaries who are redefining the boundaries of art, music, and more.
+            Unveiling the Essence: Exploring the Vibrant Tapestry of Culture and Creativity with Majita Mag!
         </p>
                 <div class="creative-box">
-                    <div id="creatives">
-                        <a href="creative.html?creative=1"><img src="./images/Shane Artboard 1.jpg" class="high-image"></a>
-                        <a href="creative.html?creative=2"><img src="./images/SOMETHINGTALL MONDAYArtboard 3.jpg" class="high-image"></a>
-                        <a href="creative.html?creative=3"><img src="./images/COREY MONDAYArtboard 3.jpg" class="high-image"></a>
-                    </div>
+                    <div id="creatives"></div>
                 </div>
             <div class="browse-btn">
-                <a href="./browsecreatives"><button>Browse all</button></a>
+                <a href="browsecreatives.html"><button>Browse all</button></a>
             </div>
     </div>
 
@@ -131,8 +127,39 @@
     </footer>
     <script src="index.js"></script>
     <script src="creatives.js"></script>
+   <script>
+        window.addEventListener('DOMContentLoaded', function () {
+            const NewestAdditionImageContainer = document.getElementById('creatives');
+            creatives.sort((a, b) => new Date(b.date) - new Date(a.date));
+        
+            NewestAdditionImageContainer.innerHTML = '';
+            creatives.forEach((creative, index) => {
+
+                if (index < 3) {
+                const anchor = document.createElement('a');
+                anchor.href = `creative.html?creative=${creative.id}`;  
+        
+                const img = document.createElement('img');
+                img.id = 'high-image';
+                img.src = creative.image;  
+                img.alt = `Creative ${creative.name}`; 
+                
+                const dateElement = document.createElement('p');
+                dateElement.id = 'date-created';
+                dateElement.innerText = `${creative.name} - Monday, ${creative.date}`
+                anchor.appendChild(img);
+                anchor.appendChild(dateElement);
+               
+                
+                    NewestAdditionImageContainer.appendChild(anchor);
+                }
+                
+            });
+        });
 
 
+    </script>
    
 </body>
 </html>
+
