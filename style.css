@@ -292,11 +292,15 @@ h4 {
     font-size: 14px;
  }
 
-#image, .high-image {
-
+#image {
     width: 70%;
     border-radius: 12px;
-    margin: 2em 2em;
+    margin: 2em .8em;
+}
+#high-image {
+    width: 70%;
+    border-radius: 12px;
+    margin: 2em 1em 6px;
 }
 .creative-box {
     display: flex;
@@ -644,7 +648,7 @@ margin-top: 3px;
     .hero {
        height: 150vh;
     }
-    #image, .high-image {
+    #image, #high-image {
         width: 20%;
     }
    }
@@ -766,7 +770,7 @@ margin-top: 3px;
         width: 40%;
 
      }
-     #image, .high-image, #results-container img {
+     #image, #high-image, #results-container img {
 
         width: 250px;
 
@@ -825,6 +829,10 @@ margin-top: 3px;
 
 
 }
+ #creatives {
+    display: flex;
+ }
+
     .footer-right form input {
         width: 100%;
         border: none;
