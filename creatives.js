@@ -276,7 +276,7 @@ const creatives = [
     //    id: 16,
   //      name: "Unkel TK",
    //     image: "./images/Unkel TK Artboart.jpg",
-   //     date: "Feb 3 2025",
+   //     date: "Feb 10 2025",
   //      questionOne: "Who's Unkel TK",
  //       answerOne: "Tokelo Tseka, a DJ and music producer from Ga Masemola Village. I'm all about creating soulful and danceable sounds, blending House and Amapiano styles. I'm a self-taught musician, driven by my passion and spirit. My goal is to make music that's uniquely mine, with a touch that sets me apart. Whenever I share my productions, I put my heart and soul into making sure they're heard loud and clear.",
 //        questionTwo: "What came first for  between Deejaying and Producing? How did one influence the other?",
